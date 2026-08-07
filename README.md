@@ -1,67 +1,8 @@
-<!-- ══════════════════════════ TITLE ══════════════════════════ -->
 <h1 align="center">Krishna Bhatnagar</h1>
 <p align="center"><i>CTO @ Reakon &nbsp;·&nbsp; building GST compliance infrastructure &nbsp;·&nbsp; Fintech · AI · Full-stack</i></p>
 
-<!-- ══════════════════════════ HERO BANNER ══════════════════════════ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/main/assets/banner.jpg" width="100%" alt="Krishna Bhatnagar" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Building+GST+compliance+infrastructure;WhatsApp-native+AI+compliance+agent;Reconciling+tax+credit%2C+one+invoice+at+a+time;Fintech+%C2%B7+AI+%C2%B7+Full-stack+engineering" alt="what I do" />
-
-<p>
-  <a href="https://reakon.in"><img src="https://img.shields.io/badge/Reakon-Live-1f6feb?style=for-the-badge&logo=rocket&logoColor=white" alt="Reakon" /></a>
-  <a href="https://kbhatnagar1506.github.io"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:krishna@profitwise.app"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kbhatnagar1506&style=for-the-badge&color=1f6feb&label=VIEWS" alt="views" />
-</p>
-
-</div>
-
-<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
-## 🚀 What I'm building
-
-**[Reakon](https://reakon.in)** — a **GST Input-Tax-Credit protection platform** for Indian businesses. It syncs a company's GST returns (**GSTR-2B / 2A / 3B / 1**), reconciles every purchase invoice against what suppliers actually filed, and surfaces **recoverable** and **at-risk** tax credit — delivered WhatsApp-first with an AI compliance agent.
-
-<table>
-<tr>
-<td>🧮</td><td><b>ITC reconciliation engine</b> — matches every purchase invoice to supplier filings with §16(4) / 17(5) legal-deadline logic</td>
-</tr>
-<tr>
-<td>🤖</td><td><b>WhatsApp-native AI agent</b> — Gemini tool-calling for the GST-mandated IMS accept/reject flow</td>
-</tr>
-<tr>
-<td>🛡️</td><td><b>Correctness-locked</b> — cross-page invariant checks run as a deploy gate <i>and</i> a daily production self-check</td>
-</tr>
-<tr>
-<td>⚙️</td><td><b>Full CI/CD</b> — typecheck · lint · build · secret-scan, code-owner-enforced reviews, protected <code>main</code></td>
-</tr>
-</table>
-
-<!-- ══════════════════════════ ACTIVITY ══════════════════════════ -->
-## 📊 Activity
-
-<div align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=kbhatnagar1506&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</div>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kbhatnagar1506&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/output/github-snake.svg" />
-  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/output/github-snake.svg" />
-</picture>
-</div>
-
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="" />
-
-<sub><i>CTO @ Reakon &nbsp;·&nbsp; <a href="mailto:krishna@profitwise.app">krishna@profitwise.app</a> &nbsp;·&nbsp; <a href="https://reakon.in">reakon.in</a></i></sub>
 
 </div>
