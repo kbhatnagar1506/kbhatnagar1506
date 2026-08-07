@@ -5,7 +5,7 @@
 <!-- ══════════════════════════ HERO BANNER ══════════════════════════ -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/main/assets/hero.jpg?v=2" width="100%" alt="Krishna Bhatnagar" />
+<img src="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/main/assets/banner.jpg" width="100%" alt="Krishna Bhatnagar" />
 
 <br/><br/>
 
