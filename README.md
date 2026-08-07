@@ -1,61 +1,78 @@
+<!-- ══════════════════════════ HEADER ══════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=768390&center=true&vCenter=true&width=620&height=60&lines=Founder+%26+CTO+%40+Reakon;Building+GST+compliance+infrastructure;Fintech+%C2%B7+AI+%C2%B7+Full-stack+engineering" alt="Krishna Bhatnagar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Krishna%20Bhatnagar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%26%20CTO%20@%20Reakon%20%C2%B7%20GST%20Compliance%20Infrastructure&descAlignY=57&descSize=18" width="100%" alt="Krishna Bhatnagar" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&height=45&lines=Building+GST+compliance+infrastructure;WhatsApp-native+AI+compliance+agent;Reconciling+tax+credit%2C+one+invoice+at+a+time;Fintech+%C2%B7+AI+%C2%B7+Full-stack+engineering" alt="what I do" />
 
 <p>
-  <a href="https://reakon.in"><img src="https://img.shields.io/badge/Reakon-Live-24292e?style=flat-square&logo=rocket&logoColor=white" alt="Reakon" /></a>
-  <a href="https://kbhatnagar1506.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-24292e?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:krishna@profitwise.app"><img src="https://img.shields.io/badge/Email-Contact-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kbhatnagar1506&style=flat-square&color=57606a&label=Profile+views" alt="Profile views" />
+  <a href="https://reakon.in"><img src="https://img.shields.io/badge/Reakon-Live-1f6feb?style=for-the-badge&logo=rocket&logoColor=white" alt="Reakon" /></a>
+  <a href="https://kbhatnagar1506.github.io"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:krishna@profitwise.app"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kbhatnagar1506&style=for-the-badge&color=1f6feb&label=VIEWS" alt="views" />
 </p>
 
 </div>
 
----
+<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
+## 🚀 What I'm building
 
-### 🚀 What I'm building
+**[Reakon](https://reakon.in)** — a **GST Input-Tax-Credit protection platform** for Indian businesses. It syncs a company's GST returns (**GSTR-2B / 2A / 3B / 1**), reconciles every purchase invoice against what suppliers actually filed, and surfaces **recoverable** and **at-risk** tax credit — delivered WhatsApp-first with an AI compliance agent.
 
-**[Reakon](https://reakon.in)** — a **GST Input-Tax-Credit protection platform** for Indian businesses. It syncs a company's GST returns (GSTR-2B / 2A / 3B / 1), reconciles every purchase invoice against what suppliers actually filed, and surfaces **recoverable** and **at-risk** tax credit — delivered WhatsApp-first with an AI compliance agent.
+<table>
+<tr>
+<td>🧮</td><td><b>ITC reconciliation engine</b> — matches every purchase invoice to supplier filings with §16(4) / 17(5) legal-deadline logic</td>
+</tr>
+<tr>
+<td>🤖</td><td><b>WhatsApp-native AI agent</b> — Gemini tool-calling for the GST-mandated IMS accept/reject flow</td>
+</tr>
+<tr>
+<td>🛡️</td><td><b>Correctness-locked</b> — cross-page invariant checks run as a deploy gate <i>and</i> a daily production self-check</td>
+</tr>
+<tr>
+<td>⚙️</td><td><b>Full CI/CD</b> — typecheck · lint · build · secret-scan, code-owner-enforced reviews, protected <code>main</code></td>
+</tr>
+</table>
 
-- 🧮 &nbsp;Automated ITC reconciliation engine with §16(4) / 17(5) legal-deadline logic
-- 🤖 &nbsp;WhatsApp-native agent (Gemini tool-calling) for the GST-mandated IMS accept/reject flow
-- 🛡️ &nbsp;Correctness-locked — cross-page invariant checks run as a deploy gate **and** a daily production self-check
-- ⚙️ &nbsp;Full CI/CD: typecheck · lint · build · secret-scan, code-owner-enforced reviews, protected `main`
-
----
-
-### 🛠️ Tech I work with
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-</p>
-
----
-
-### 📊 GitHub in numbers
+<!-- ══════════════════════════ TECH ══════════════════════════ -->
+## 🛠️ Tech I work with
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kbhatnagar1506&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbhatnagar1506&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="top langs" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,swift&theme=dark" alt="languages & frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,heroku,githubactions,tailwind,vercel&theme=dark" alt="infra & tooling" />
+
+<br/><br/>
+<sub><b>Also in the toolbelt:</b> &nbsp; Twilio (WhatsApp) &nbsp;·&nbsp; Google Gemini &nbsp;·&nbsp; Cloudflare &nbsp;·&nbsp; GSP APIs (WhiteBooks / Sandbox) &nbsp;·&nbsp; pnpm</sub>
 
 </div>
 
----
+<!-- ══════════════════════════ ACTIVITY ══════════════════════════ -->
+## 📊 Activity
 
 <div align="center">
-<i>Founder & CTO @ Reakon &nbsp;·&nbsp; <a href="mailto:krishna@profitwise.app">krishna@profitwise.app</a> &nbsp;·&nbsp; <a href="https://reakon.in">reakon.in</a></i>
+<img width="60%" src="https://streak-stats.demolab.com?user=kbhatnagar1506&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</div>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kbhatnagar1506&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="activity graph" />
+
+<!-- The snake eats my contribution graph — generated by a GitHub Action -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/kbhatnagar1506/kbhatnagar1506/output/github-snake.svg" />
+</picture>
+
+</div>
+
+<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="" />
+
+<sub><i>Founder &amp; CTO @ Reakon &nbsp;·&nbsp; <a href="mailto:krishna@profitwise.app">krishna@profitwise.app</a> &nbsp;·&nbsp; <a href="https://reakon.in">reakon.in</a></i></sub>
+
 </div>
